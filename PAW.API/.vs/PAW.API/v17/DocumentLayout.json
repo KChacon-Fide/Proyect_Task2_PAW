@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0CCA03-6631-4E24-BDEA-5A57386291D2}|PAW.Business\\PAW.Business.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.business\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0CCA03-6631-4E24-BDEA-5A57386291D2}|PAW.Business\\PAW.Business.csproj|solutionrelative:paw.business\\productmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E37CCF8-6FE6-4F07-89D4-F4BC946A16F6}|PAW.Data\\PAW.Data.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.data\\resources\\scripts.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2E37CCF8-6FE6-4F07-89D4-F4BC946A16F6}|PAW.Data\\PAW.Data.csproj|solutionrelative:paw.data\\resources\\scripts.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|solutionrelative:paw.mvc\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|solutionrelative:paw.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.mvc\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|solutionrelative:paw.mvc\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9123F48D-E3D7-4E8B-884D-2F5A08C4D0D0}|PAW.Models\\PAW.Models.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9123F48D-E3D7-4E8B-884D-2F5A08C4D0D0}|PAW.Models\\PAW.Models.csproj|solutionrelative:paw.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E37CCF8-6FE6-4F07-89D4-F4BC946A16F6}|PAW.Data\\PAW.Data.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E37CCF8-6FE6-4F07-89D4-F4BC946A16F6}|PAW.Data\\PAW.Data.csproj|solutionrelative:paw.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|solutionrelative:paw.mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCBC5105-2D9F-415E-A1B3-9A4AA410EF85}|PAW.Mvc\\PAW.Mvc.csproj|solutionrelative:paw.mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA420FB0-57A3-47D6-85AA-5C9AE8DF58EF}|PAW.Services\\PAW.Services.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA420FB0-57A3-47D6-85AA-5C9AE8DF58EF}|PAW.Services\\PAW.Services.csproj|solutionrelative:paw.services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E37CCF8-6FE6-4F07-89D4-F4BC946A16F6}|PAW.Data\\PAW.Data.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E37CCF8-6FE6-4F07-89D4-F4BC946A16F6}|PAW.Data\\PAW.Data.csproj|solutionrelative:paw.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32F9D67-3691-4216-BC58-40017D0B08EF}|PAW.API\\PAW.API.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.api\\paw.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F32F9D67-3691-4216-BC58-40017D0B08EF}|PAW.API\\PAW.API.csproj|solutionrelative:paw.api\\paw.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32F9D67-3691-4216-BC58-40017D0B08EF}|PAW.API\\PAW.API.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F32F9D67-3691-4216-BC58-40017D0B08EF}|PAW.API\\PAW.API.csproj|solutionrelative:paw.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F32F9D67-3691-4216-BC58-40017D0B08EF}|PAW.API\\PAW.API.csproj|c:\\users\\kenda\\onedrive\\escritorio\\paw\\paw.api\\paw.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F32F9D67-3691-4216-BC58-40017D0B08EF}|PAW.API\\PAW.API.csproj|solutionrelative:paw.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1439,
+          "SelectedChildIndex": 17,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a83394e3-39c2-4678-a3c8-364b69d78fd3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d562c6a0-d2fe-4c19-a8b3-e5cbc09bf375}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5c82a791-7c9f-441e-952b-8848655dd85e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5e929736-0e81-4d52-a78e-546a1649faca}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a34b1c5d-6d37-4a0c-a8b0-99f8e8158b48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Mvc\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "PAW.Mvc\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Mvc\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "PAW.Mvc\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:41:08.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Mvc\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "PAW.Mvc\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Mvc\\Controllers\\MainController.cs",
+              "RelativeToolTip": "PAW.Mvc\\Controllers\\MainController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:40:59.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PAW.Data\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Data\\Models\\Product.cs",
+              "RelativeToolTip": "PAW.Data\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T02:39:59.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scripts.txt",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Data\\Resources\\Scripts.txt",
+              "RelativeDocumentMoniker": "PAW.Data\\Resources\\Scripts.txt",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Data\\Resources\\Scripts.txt",
+              "RelativeToolTip": "PAW.Data\\Resources\\Scripts.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-30T02:36:43.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Mvc\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "PAW.Mvc\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Mvc\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "PAW.Mvc\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T01:01:57.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductManager.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Business\\ProductManager.cs",
+              "RelativeDocumentMoniker": "PAW.Business\\ProductManager.cs",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Business\\ProductManager.cs",
+              "RelativeToolTip": "PAW.Business\\ProductManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T02:09:48.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Mvc\\Program.cs",
+              "RelativeDocumentMoniker": "PAW.Mvc\\Program.cs",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Mvc\\Program.cs",
+              "RelativeToolTip": "PAW.Mvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T00:54:31.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Mvc\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PAW.Mvc\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Mvc\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PAW.Mvc\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T02:20:52.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Models\\Product.cs",
+              "RelativeDocumentMoniker": "PAW.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Models\\Product.cs",
+              "RelativeToolTip": "PAW.Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T02:06:02.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Services\\Class1.cs",
+              "RelativeDocumentMoniker": "PAW.Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Services\\Class1.cs",
+              "RelativeToolTip": "PAW.Services\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:59:25.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "PAW.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.Data\\Class1.cs",
+              "RelativeToolTip": "PAW.Data\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:59:00.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PAW.API.http",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.API\\PAW.API.http",
+              "RelativeDocumentMoniker": "PAW.API\\PAW.API.http",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.API\\PAW.API.http",
+              "RelativeToolTip": "PAW.API\\PAW.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-16T02:38:47.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.API\\appsettings.json",
+              "RelativeDocumentMoniker": "PAW.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.API\\appsettings.json",
+              "RelativeToolTip": "PAW.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T02:38:44.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PAW.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.API\\PAW.API\\appsettings.Development.json",
+              "RelativeToolTip": "PAW.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-16T02:38:42.548Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 658,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cdbdee54-b399-484b-b763-db2c3393d646}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d98f7c4d-b652-422c-bcdf-3d0e2b2da2c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:18:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:19:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:21:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 150,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
