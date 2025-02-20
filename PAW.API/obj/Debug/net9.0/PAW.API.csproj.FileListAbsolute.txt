@@ -1,0 +1,10 @@
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.API\obj\Debug\net9.0\PAW.API.csproj.AssemblyReference.cache
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.API\obj\Debug\net9.0\PAW.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.API\obj\Debug\net9.0\PAW.API.AssemblyInfoInputs.cache
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.API\obj\Debug\net9.0\PAW.API.AssemblyInfo.cs
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.API\obj\Debug\net9.0\PAW.API.csproj.CoreCompileInputs.cache
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.API\obj\Debug\net9.0\PAW.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.API\obj\Debug\net9.0\PAW.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.API\obj\Debug\net9.0\PAW.API.RazorAssemblyInfo.cache
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.API\obj\Debug\net9.0\PAW.API.RazorAssemblyInfo.cs
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.API\obj\Debug\net9.0\PAW.API.sourcelink.json

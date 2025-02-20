@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.MinimalAPI\\PAW.MinimalAPI.csproj": {}
+    "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.MinimalAPI\\PAW.MinimalAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Architecture\\PAW.Architecture.csproj": {
+    "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Architecture\\PAW.Architecture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Architecture\\PAW.Architecture.csproj",
+        "projectUniqueName": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Architecture\\PAW.Architecture.csproj",
         "projectName": "PAW.Architecture",
-        "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Architecture\\PAW.Architecture.csproj",
+        "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Architecture\\PAW.Architecture.csproj",
         "packagesPath": "C:\\Users\\Kenda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Architecture\\obj\\",
+        "outputPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Architecture\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Kenda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -61,21 +66,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Data\\PAW.Data.csproj": {
+    "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Data\\PAW.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Data\\PAW.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Data\\PAW.Data.csproj",
         "projectName": "PAW.Data",
-        "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Data\\PAW.Data.csproj",
+        "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Data\\PAW.Data.csproj",
         "packagesPath": "C:\\Users\\Kenda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Data\\obj\\",
+        "outputPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Kenda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +99,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Models\\PAW.Models.csproj": {
-                "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Models\\PAW.Models.csproj"
+              "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\PAW.Models.csproj": {
+                "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\PAW.Models.csproj"
               }
             }
           }
@@ -105,7 +114,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -144,25 +154,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.MinimalAPI\\PAW.MinimalAPI.csproj": {
+    "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.MinimalAPI\\PAW.MinimalAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.MinimalAPI\\PAW.MinimalAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.MinimalAPI\\PAW.MinimalAPI.csproj",
         "projectName": "PAW.MinimalAPI",
-        "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.MinimalAPI\\PAW.MinimalAPI.csproj",
+        "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.MinimalAPI\\PAW.MinimalAPI.csproj",
         "packagesPath": "C:\\Users\\Kenda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.MinimalAPI\\obj\\",
+        "outputPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.MinimalAPI\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Kenda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -170,17 +184,17 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Architecture\\PAW.Architecture.csproj": {
-                "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Architecture\\PAW.Architecture.csproj"
+              "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Architecture\\PAW.Architecture.csproj": {
+                "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Architecture\\PAW.Architecture.csproj"
               },
-              "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Models\\PAW.Models.csproj": {
-                "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Models\\PAW.Models.csproj"
+              "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\PAW.Models.csproj": {
+                "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\PAW.Models.csproj"
               },
-              "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Service\\PAW.Service.csproj": {
-                "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Service\\PAW.Service.csproj"
+              "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Service\\PAW.Service.csproj": {
+                "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Service\\PAW.Service.csproj"
               }
             }
           }
@@ -194,15 +208,16 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "dependencies": {
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
-              "version": "[8.0.13, )"
+              "version": "[9.0.2, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -228,21 +243,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Models\\PAW.Models.csproj": {
+    "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\PAW.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Models\\PAW.Models.csproj",
+        "projectUniqueName": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\PAW.Models.csproj",
         "projectName": "PAW.Models",
-        "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Models\\PAW.Models.csproj",
+        "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\PAW.Models.csproj",
         "packagesPath": "C:\\Users\\Kenda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Models\\obj\\",
+        "outputPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Kenda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -268,7 +287,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -289,21 +309,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Repositories\\PAW.Repositories.csproj": {
+    "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Repositories\\PAW.Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Repositories\\PAW.Repositories.csproj",
+        "projectUniqueName": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Repositories\\PAW.Repositories.csproj",
         "projectName": "PAW.Repositories",
-        "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Repositories\\PAW.Repositories.csproj",
+        "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Repositories\\PAW.Repositories.csproj",
         "packagesPath": "C:\\Users\\Kenda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Repositories\\obj\\",
+        "outputPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Repositories\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Kenda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -318,14 +342,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Architecture\\PAW.Architecture.csproj": {
-                "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Architecture\\PAW.Architecture.csproj"
+              "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Architecture\\PAW.Architecture.csproj": {
+                "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Architecture\\PAW.Architecture.csproj"
               },
-              "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Data\\PAW.Data.csproj": {
-                "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Data\\PAW.Data.csproj"
+              "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Data\\PAW.Data.csproj": {
+                "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Data\\PAW.Data.csproj"
               },
-              "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Models\\PAW.Models.csproj": {
-                "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Models\\PAW.Models.csproj"
+              "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\PAW.Models.csproj": {
+                "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\PAW.Models.csproj"
               }
             }
           }
@@ -339,7 +363,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -360,21 +385,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Service\\PAW.Service.csproj": {
+    "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Service\\PAW.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Service\\PAW.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Service\\PAW.Service.csproj",
         "projectName": "PAW.Service",
-        "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Service\\PAW.Service.csproj",
+        "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Service\\PAW.Service.csproj",
         "packagesPath": "C:\\Users\\Kenda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Service\\obj\\",
+        "outputPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Service\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\Kenda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -389,14 +418,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Architecture\\PAW.Architecture.csproj": {
-                "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Architecture\\PAW.Architecture.csproj"
+              "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Architecture\\PAW.Architecture.csproj": {
+                "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Architecture\\PAW.Architecture.csproj"
               },
-              "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Models\\PAW.Models.csproj": {
-                "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Models\\PAW.Models.csproj"
+              "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\PAW.Models.csproj": {
+                "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\PAW.Models.csproj"
               },
-              "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Repositories\\PAW.Repositories.csproj": {
-                "projectPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Repositories\\PAW.Repositories.csproj"
+              "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Repositories\\PAW.Repositories.csproj": {
+                "projectPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Repositories\\PAW.Repositories.csproj"
               }
             }
           }
@@ -410,7 +439,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -431,7 +461,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

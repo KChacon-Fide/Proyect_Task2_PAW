@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vlLYCOTSNH4=",
+  "dgSpecHash": "L6sN264O+qw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\PAW.Service\\PAW.Service.csproj",
+  "projectFilePath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Service\\PAW.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kenda\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Kenda\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

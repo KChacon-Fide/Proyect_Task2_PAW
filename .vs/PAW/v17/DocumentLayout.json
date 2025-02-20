@@ -1,7 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Kenda\\OneDrive\\Escritorio\\PAW\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA78FF8-4984-4558-A55A-CE19B8E8CF46}|PAW.MinimalAPI\\PAW.MinimalAPI.csproj|c:\\users\\kenda\\source\\repos\\proyect_task2_paw\\paw.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA78FF8-4984-4558-A55A-CE19B8E8CF46}|PAW.MinimalAPI\\PAW.MinimalAPI.csproj|solutionrelative:paw.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70D1B52E-4BE6-4C84-A0C8-1CED701C3547}|PAW.API\\PAW.API.csproj|c:\\users\\kenda\\source\\repos\\proyect_task2_paw\\paw.api\\paw.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70D1B52E-4BE6-4C84-A0C8-1CED701C3547}|PAW.API\\PAW.API.csproj|solutionrelative:paw.api\\paw.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5B9E73-6C0A-4EB9-965B-6E5B1F79CE7D}|PAW.Models\\PAW.Models.csproj|c:\\users\\kenda\\source\\repos\\proyect_task2_paw\\paw.models\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5B9E73-6C0A-4EB9-965B-6E5B1F79CE7D}|PAW.Models\\PAW.Models.csproj|solutionrelative:paw.models\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5B9E73-6C0A-4EB9-965B-6E5B1F79CE7D}|PAW.Models\\PAW.Models.csproj|c:\\users\\kenda\\source\\repos\\proyect_task2_paw\\paw.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5B9E73-6C0A-4EB9-965B-6E5B1F79CE7D}|PAW.Models\\PAW.Models.csproj|solutionrelative:paw.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5B9E73-6C0A-4EB9-965B-6E5B1F79CE7D}|PAW.Models\\PAW.Models.csproj|c:\\users\\kenda\\source\\repos\\proyect_task2_paw\\paw.models\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5B9E73-6C0A-4EB9-965B-6E5B1F79CE7D}|PAW.Models\\PAW.Models.csproj|solutionrelative:paw.models\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5B9E73-6C0A-4EB9-965B-6E5B1F79CE7D}|PAW.Models\\PAW.Models.csproj|c:\\users\\kenda\\source\\repos\\proyect_task2_paw\\paw.models\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5B9E73-6C0A-4EB9-965B-6E5B1F79CE7D}|PAW.Models\\PAW.Models.csproj|solutionrelative:paw.models\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5B9E73-6C0A-4EB9-965B-6E5B1F79CE7D}|PAW.Models\\PAW.Models.csproj|c:\\users\\kenda\\source\\repos\\proyect_task2_paw\\paw.models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5B9E73-6C0A-4EB9-965B-6E5B1F79CE7D}|PAW.Models\\PAW.Models.csproj|solutionrelative:paw.models\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E5B9E73-6C0A-4EB9-965B-6E5B1F79CE7D}|PAW.Models\\PAW.Models.csproj|c:\\users\\kenda\\source\\repos\\proyect_task2_paw\\paw.models\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E5B9E73-6C0A-4EB9-965B-6E5B1F79CE7D}|PAW.Models\\PAW.Models.csproj|solutionrelative:paw.models\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,6 +91,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.MinimalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PAW.MinimalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.MinimalAPI\\Program.cs",
+              "RelativeToolTip": "PAW.MinimalAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:53:09.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.API\\PAW.API\\Program.cs",
+              "RelativeDocumentMoniker": "PAW.API\\PAW.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.API\\PAW.API\\Program.cs",
+              "RelativeToolTip": "PAW.API\\PAW.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:37:25.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\User.cs",
+              "RelativeDocumentMoniker": "PAW.Models\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\User.cs",
+              "RelativeToolTip": "PAW.Models\\Models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:08:56.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "PAW.Models\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Supplier.cs",
+              "RelativeToolTip": "PAW.Models\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:08:47.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "PAW.Models\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Role.cs",
+              "RelativeToolTip": "PAW.Models\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:08:42.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PAW.Models\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Product.cs",
+              "RelativeToolTip": "PAW.Models\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:08:38.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "PAW.Models\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Inventory.cs",
+              "RelativeToolTip": "PAW.Models\\Models\\Inventory.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:08:32.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "PAW.Models\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Category.cs",
+              "RelativeToolTip": "PAW.Models\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T22:07:56.954Z",
+              "EditorCaption": ""
             }
           ]
         },

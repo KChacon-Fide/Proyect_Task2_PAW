@@ -1,0 +1,12 @@
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.Architecture\bin\Debug\net8.0\PAW.Architecture.deps.json
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.Architecture\bin\Debug\net8.0\PAW.Architecture.dll
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.Architecture\bin\Debug\net8.0\PAW.Architecture.pdb
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.Architecture\obj\Debug\net8.0\PAW.Architecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.Architecture\obj\Debug\net8.0\PAW.Architecture.AssemblyInfoInputs.cache
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.Architecture\obj\Debug\net8.0\PAW.Architecture.AssemblyInfo.cs
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.Architecture\obj\Debug\net8.0\PAW.Architecture.csproj.CoreCompileInputs.cache
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.Architecture\obj\Debug\net8.0\PAW.Architecture.sourcelink.json
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.Architecture\obj\Debug\net8.0\PAW.Architecture.dll
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.Architecture\obj\Debug\net8.0\refint\PAW.Architecture.dll
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.Architecture\obj\Debug\net8.0\PAW.Architecture.pdb
+C:\Users\Kenda\source\repos\Proyect_Task2_PAW\PAW.Architecture\obj\Debug\net8.0\ref\PAW.Architecture.dll
