@@ -17,13 +17,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.Repositories", "PAW.Rep
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAW.Architecture", "PAW.Architecture\PAW.Architecture.csproj", "{0298263D-C129-4AC5-8F15-5E63A85FE7BD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la Solucion", "Elementos de la Solucion", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{70D1B52E-4BE6-4C84-A0C8-1CED701C3547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -54,5 +56,11 @@ Global
 		{0298263D-C129-4AC5-8F15-5E63A85FE7BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0298263D-C129-4AC5-8F15-5E63A85FE7BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0298263D-C129-4AC5-8F15-5E63A85FE7BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B353BE78-F184-4BCD-82BD-608C9525EDC6}
 	EndGlobalSection
 EndGlobal

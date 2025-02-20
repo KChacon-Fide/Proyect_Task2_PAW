@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BA78FF8-4984-4558-A55A-CE19B8E8CF46}|PAW.MinimalAPI\\PAW.MinimalAPI.csproj|c:\\users\\kenda\\source\\repos\\proyect_task2_paw\\paw.minimalapi\\paw.minimalapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{6BA78FF8-4984-4558-A55A-CE19B8E8CF46}|PAW.MinimalAPI\\PAW.MinimalAPI.csproj|solutionrelative:paw.minimalapi\\paw.minimalapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BA78FF8-4984-4558-A55A-CE19B8E8CF46}|PAW.MinimalAPI\\PAW.MinimalAPI.csproj|c:\\users\\kenda\\source\\repos\\proyect_task2_paw\\paw.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BA78FF8-4984-4558-A55A-CE19B8E8CF46}|PAW.MinimalAPI\\PAW.MinimalAPI.csproj|solutionrelative:paw.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -99,19 +95,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PAW.MinimalAPI.http",
-              "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.MinimalAPI\\PAW.MinimalAPI.http",
-              "RelativeDocumentMoniker": "PAW.MinimalAPI\\PAW.MinimalAPI.http",
-              "ToolTip": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.MinimalAPI\\PAW.MinimalAPI.http",
-              "RelativeToolTip": "PAW.MinimalAPI\\PAW.MinimalAPI.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-20T00:02:54.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.MinimalAPI\\Program.cs",
               "RelativeDocumentMoniker": "PAW.MinimalAPI\\Program.cs",
@@ -124,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.API\\PAW.API\\Program.cs",
               "RelativeDocumentMoniker": "PAW.API\\PAW.API\\Program.cs",
@@ -137,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\User.cs",
               "RelativeDocumentMoniker": "PAW.Models\\Models\\User.cs",
@@ -150,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Supplier.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Supplier.cs",
               "RelativeDocumentMoniker": "PAW.Models\\Models\\Supplier.cs",
@@ -163,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Role.cs",
               "RelativeDocumentMoniker": "PAW.Models\\Models\\Role.cs",
@@ -176,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Product.cs",
               "RelativeDocumentMoniker": "PAW.Models\\Models\\Product.cs",
@@ -189,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Inventory.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Inventory.cs",
               "RelativeDocumentMoniker": "PAW.Models\\Models\\Inventory.cs",
@@ -202,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Kenda\\source\\repos\\Proyect_Task2_PAW\\PAW.Models\\Models\\Category.cs",
               "RelativeDocumentMoniker": "PAW.Models\\Models\\Category.cs",
